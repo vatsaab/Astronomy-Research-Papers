@@ -4,7 +4,7 @@ A repository to store research papers
 File structure:
 
 We will each have a folder to add our submissions. I've named yours 
-"ivebeenoff", but you're free to name it as you wish. Mine is named 
+"vatsaab", but you're free to name it as you wish. Mine is named 
 "gritsblitz". 
 
 Afterwards, the next folders are named "articles" and "summaries", where
