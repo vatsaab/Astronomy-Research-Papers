@@ -1,5 +1,5 @@
-# Astronomy-Research-Papers
-A repository to store astronomy research papers 
+# Research-Papers
+A repository to store research papers 
 
 File structure:
 
